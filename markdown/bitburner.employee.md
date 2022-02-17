@@ -16,13 +16,13 @@ interface Employee
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [cha](./bitburner.employee.cha.md) | number |  |
-|  [cre](./bitburner.employee.cre.md) | number |  |
-|  [eff](./bitburner.employee.eff.md) | number |  |
+|  [cha](./bitburner.employee.cha.md) | number | Charisma |
+|  [cre](./bitburner.employee.cre.md) | number | Creativity |
+|  [eff](./bitburner.employee.eff.md) | number | Efficiency |
 |  [ene](./bitburner.employee.ene.md) | number | Energy |
-|  [exp](./bitburner.employee.exp.md) | number |  |
+|  [exp](./bitburner.employee.exp.md) | number | Experience |
 |  [hap](./bitburner.employee.hap.md) | number | Happiness |
-|  [int](./bitburner.employee.int.md) | number |  |
+|  [int](./bitburner.employee.int.md) | number | Intelligence |
 |  [loc](./bitburner.employee.loc.md) | string | City |
 |  [mor](./bitburner.employee.mor.md) | number | Morale |
 |  [name](./bitburner.employee.name.md) | string | Name of the employee |
